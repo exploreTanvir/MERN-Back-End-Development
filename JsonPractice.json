@@ -1,0 +1,21 @@
+{
+  "Title": "The cuckoo is calling",
+  "Author": "Tanvir Hossen Raju",
+  "Address": "Jhenaidah",
+  "Detail": {
+    "city": "Magura",
+    "Identity": "Bangladeshi",
+    "Number": 1312591010,
+    "Birth": "12 November 2002"
+  },
+  "class": {
+    "Roll": 532987,
+    "CGPA": 3.95
+  },
+  "Detail's": [
+    {
+      "Type": "Hardwork",
+      "language": ["JavaScript", "java", "Python", "c#"]
+    }
+  ]
+}
